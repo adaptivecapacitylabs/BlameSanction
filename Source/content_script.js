@@ -7,11 +7,6 @@ function walk(node)
 	
 	var child, next;
 	
-	if (node.tagName.toLowerCase() == 'input' || node.tagName.toLowerCase() == 'textarea'
-	    || node.classList.indexOf('ace_editor') > -1) {
-		return;
-	}
-
 	switch ( node.nodeType )  
 	{
 		case 1:  // Element
