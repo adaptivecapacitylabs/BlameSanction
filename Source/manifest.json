@@ -3,6 +3,7 @@
 	"name": "DevOpsRealityField",
 	"version": "1.0",
 	"description": "Replaces the text 'devops' with 'cooperation, collaboration, and coordination'.",
+	"icons": { "128": "logo.png" },
 	"content_scripts": 
 	[
 		{
