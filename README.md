@@ -1,11 +1,11 @@
-DevOps Reality Field
+BlameSanction
 =============
 
-Inspired by both [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt "Cloud To Butt") and [truthful-human-error](https://github.com/jonlives/truthful-human-error "Truthful Human Error"), this chrome extension replaces occurrences of 'devops' with 'cooperation, collaboration, and coordination.'
+Inspired by both [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt "Cloud To Butt") and [truthful-human-error](https://github.com/jonlives/truthful-human-error "Truthful Human Error"), this chrome extension replaces occurrences of 'blameless postmortem' with 'sanctionless postmortem'
 
-Direct download of the [extension](https://github.com/jallspaw/DevOpsRealityField/blob/master/DevOpsRealityField.crx?raw=true)
+See https://snafucatchers.github.io/#4_2_Blame_versus_sanction_in_the_aftermath_of_anomalies
 
 Installation
 ============
 
-In Chrome, choose Window > Extensions. Drag DevOpsRealityField.crx into the page that appears.
+In Chrome, choose Window > Extensions. Drag BlameSanction.crx into the page that appears.

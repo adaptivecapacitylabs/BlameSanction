@@ -31,9 +31,12 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\bblameless postmortem\b/g, "sanctionless postmortem");
-	v = v.replace(/\bBlameless Postmortem\b/g, "Sanctionless Postmortem");
+	v = v.replace(/\bblameless postmortem\b/gi, "sanctionless postmortem");
+	v = v.replace(/\bblameless post-mortem\b/gi, "sanctionless post-mortem");
 	
+	v = v.replace(/\bblameless postmortems\b/gi, "sanctionless postmortems");
+	v = v.replace(/\bblameless post-mortems\b/gi, "sanctionless post-mortems");
+
 	textNode.nodeValue = v;
 }
 

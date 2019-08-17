@@ -1,9 +1,9 @@
 {
 	"manifest_version": 2,
-	"name": "DevOpsRealityField",
+	"name": "BlameSanction",
 	"version": "1.0",
-	"description": "Replaces the text 'devops' with 'cooperation, collaboration, and coordination'.",
-	"icons": { "128": "logo.png" },
+	"description": "Replaces the text 'blameless postmortem' with 'sanctionless postmortem'.",
+	"icons": { "128": "logo128.png" },
 	"content_scripts": 
 	[
 		{
