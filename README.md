@@ -3,7 +3,7 @@ BlameSanction
 
 Inspired by both [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt "Cloud To Butt") and [truthful-human-error](https://github.com/jonlives/truthful-human-error "Truthful Human Error"), this chrome extension replaces occurrences of 'blameless postmortem' with 'sanctionless postmortem'
 
-See https://snafucatchers.github.io/#4_2_Blame_versus_sanction_in_the_aftermath_of_anomalies
+For an explanation of this, see https://snafucatchers.github.io/#4_2_Blame_versus_sanction_in_the_aftermath_of_anomalies
 
 Installation
 ============
