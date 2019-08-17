@@ -37,6 +37,7 @@ function handleText(textNode)
 	v = v.replace(/\bblameless postmortems\b/gi, "sanctionless postmortems");
 	v = v.replace(/\bblameless post-mortems\b/gi, "sanctionless post-mortems");
 
+	v = v.replace(/\bblameless culture\b/gi, "sanctionless culture");
 	textNode.nodeValue = v;
 
 }
