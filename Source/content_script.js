@@ -31,9 +31,8 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\bDevOps\b/g, "Cooperation, Collaboration, and Coordination");
-	v = v.replace(/\bDEVOPS\b/g, "Cooperation, Collaboration, and Coordination");
-	v = v.replace(/\bdevops\b/g, "cooperation, collaboration, and coordination");
+	v = v.replace(/\bblameless postmortem\b/g, "sanctionless postmortem");
+	v = v.replace(/\bBlameless Postmortem\b/g, "Sanctionless Postmortem");
 	
 	textNode.nodeValue = v;
 }
